@@ -4,7 +4,8 @@
   "description": "CLI scripts to analyze the EVM contract's behaviors and transactions.",
   "main": "index.js",
   "scripts": {
-    "get-logs": "tsx ./src/get-logs.ts"
+    "get-logs": "tsx ./src/get-logs.ts",
+    "analyze-rfq-transactions": "tsx ./src/analyze-rfq-transactions.ts"
   },
   "author": "",
   "license": "ISC",
